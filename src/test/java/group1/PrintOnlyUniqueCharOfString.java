@@ -32,7 +32,7 @@ public class PrintOnlyUniqueCharOfString
 				
 			}
 			if(count==1){
-				//System.out.println(ch+" "+count);
+				System.out.println(ch+" "+count);
 				System.out.print(ch);
 			}
 			
